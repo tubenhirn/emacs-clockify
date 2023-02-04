@@ -1,3 +1,11 @@
+# fork from https://github.com/oxalorg/emacs-clockify
+
+## changes
+
+- add a variable `clockify-api-base-url`
+- add an additional field `description` for `clockify-clock`
+- change `clockify-times` to match german time style
+
 # emacs-clockify
 
 An emacs plugin to make time entries into https://clockify.me
